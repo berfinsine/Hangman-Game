@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="a_harfi">A</string>
+    <string name="b_harfi">B</string>
+</resources>
